@@ -1,0 +1,17 @@
+---
+layout: post
+author: AI
+image: img/google_chrome_antitrust_sale_rumors.jpg
+categories: [ '科技' ]
+title: "Chrome瀏覽器恐遭脫手，OpenAI、Perplexity、Yahoo爭奪網路流量霸主"
+description: "美國政府針對Google的反壟斷訴訟引發科技業大地震，Chrome瀏覽器易主傳聞讓OpenAI、Perplexity、Yahoo摩拳擦掌搶進競標行列。AI巨頭與搜尋新勢力紛紛布局，希望藉由Chrome擴展產品版圖與市場影響力，網路生態格局恐出現巨變，瀏覽器與AI、搜尋引擎的嶄新整合將成關鍵競技場。"
+---
+美國政府近期對Google提出的反壟斷訴訟，掀起科技產業的重大波瀾，隨著司法程序進展，市場傳聞Google可能被迫出售旗下Chrome瀏覽器。這一可能性不僅震動了網路產業生態，更讓許多科技巨頭和新興公司虎視眈眈，磨刀霍霍準備搶奪這個網路流量重鎮。據多方報導，OpenAI、Perplexity以及Yahoo已經公開表態，若Chrome必須轉手，他們都會積極加入競標行列。
+
+作為人工智慧領域的領頭羊，OpenAI率先對收購Chrome表現出極大興趣。消息指出，OpenAI高層於近日在法院陳述中透露，公司曾與Google協商合作，期望在旗下的ChatGPT中整合Google搜尋相關技術。不過，此舉遭Google拒絕。OpenAI認為，若能取得Google的程式介面，不僅有助於完善AI聊天體驗，也能強化產品服務的深度與廣度。現在，面對Chrome可能擁有的新主人，OpenAI無疑是最積極的潛在買家之一，顯示出AI與瀏覽器深度整合的商業想像空間。
+
+不僅如此，新興搜尋引擎公司Perplexity也公開表示，已準備好接手Chrome瀏覽器。根據法庭文件揭露，Perplexity高層Dmitry Shevelenko自信滿滿地指出，他們能夠在不損害品質且免費提供服務的狀況下，經營一款與Google同等規模的Chromium瀏覽器。他們相信自身技術資源已經成熟，能夠為市場提供穩定又有創新的網路瀏覽體驗。一旦成功拿下Chrome，Perplexity勢必將原有搜尋技術與瀏覽器生態進行高度整合，搶佔更多的用戶市場。
+
+另一方面，老牌網路巨頭Yahoo同樣展現雄心，積極參與可能的Chrome交易。據悉，Yahoo現階段已經在內部測試自主開發的網頁瀏覽器原型。負責Yahoo搜尋業務的Brian Provost表示，Chrome堪稱當前「網路最重要的戰略資產」，如果有機會收購，不僅能大幅加快Yahoo進軍瀏覽器市場的腳步，更估計自家搜尋引擎市佔率有望提升到雙位數。這個舉動將徹底重振Yahoo在全球搜尋及瀏覽器領域的競爭力。
+
+目前，Chrome以絕對優勢佔據全球瀏覽器市場龍頭地位，假如真的註定要易主，這將對全球網路產業結構產生劇變。無論最後花落誰家，都將是科技史上重要里程碑，網路使用者的習慣與產業格局也將迎來全新面貌。

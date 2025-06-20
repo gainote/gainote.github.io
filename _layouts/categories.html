@@ -1,0 +1,51 @@
+---
+title: "Categories"
+layout: default
+permalink: "/categories.html"
+---
+
+<div class="row listrecent">
+{% for category in site.categories %}
+<div class="ppost" style="display:none;" id="{{ category[0] | replace: " ","-" }}_posts">
+<div class="section-title col-md-12 mt-4">
+<h2 id="{{ category[0] | replace: " ","-" }}">Category <span class="text-capitalize">{{ category[0] }}</span></h2>
+</div>
+{% assign pages_list = category[1] %}
+<div class="row">
+{% for post in pages_list %}
+{% if post.title != null %}
+{% if group == null or group == post.group %}
+{% include postbox.html %}
+{% endif %}
+{% endif %}
+{% endfor %}
+</div>
+{% assign pages_list = nil %}
+{% assign group = nil %}
+</div>
+{% endfor %}
+</div>
+
+
+
+
+<script>
+  // 取得 URL hash (去掉前面的 #)
+  const hash = decodeURIComponent(location.hash.slice(1)).toLowerCase();
+  console.log('exe1');
+  if (hash) {
+    const blocks = document.querySelectorAll('.ppost');
+    let found = false;console.log('exe2');
+    blocks.forEach(block => {
+      // const cat = block.getElementById(hash).id[0];
+      if (hash+'_posts' === block.id) {
+        block.style.display = 'block';console.log('exe3');
+        found = true;
+      }
+    });
+    if (!found) {
+      // 若找不到對應分類，可選擇顯示全部或顯示提示
+      document.getElementById('listrecent').innerHTML = `<p class="col-md-12 mt-4">查無分類：${hash}</p>`;
+    }
+  }
+</script>

@@ -1,0 +1,5 @@
+
+      您使用的瀏覽器版本較舊，已不再受支援。建議您更新瀏覽器版本，以獲得最佳使用體驗。
+    
+      請在瀏覽器上啟用JavaScript來瀏覽頁面中的所有內容。
+    恭喜哂今屆金像出爐影帝影后劉青雲同衛詩雅，青雲於《爸爸》中嘅太太谷祖琳同仔仔蘇文濤分別奪得「最佳女配角」、「最佳新演員」堪稱一門三傑，而《破·地獄》嘅兄妹檔就齊齊攞獎，仲齊齊爆喊，朱栢康獲「最佳男配角」時已好激動，當Michelle攞獎時又再喊過，全晚最冷靜嘅得獎者應該係林家謙啦，不過對於公司老闆楊受成嘅厚愛，佢就有啲受寵若驚喎﹗#金像獎 #影后 #劉青雲 #衛詩雅 #爸爸 #太太谷祖琳 #仔仔蘇文濤 #最佳女配角 #最佳新演員 #一門三傑 #破地獄 #兄妹檔 #爆喊 #朱栢康 #最佳男配角 #激動 #最冷靜 #林家謙 #楊受成 #受寵若驚 #娛樂新聞 #HOY#HOYTV #HOY娛樂新聞-------------------------------------------------Like & Follow 👍👍👍HOY TV Facebook ► https://www.facebook.com/hkhoyHOY TV Instagram ► https://www.instagram.com/hk.hoy/有線新聞 Facebook ► https://www.facebook.com/icable.news有線新聞 Instagram ► https://www.instagram.com/icable.news有線生活 Facebook ► https://www.facebook.com/icable.life有線生活 Instagram ► https://www.instagram.com/icable.life有線娛樂 Facebook ► https://www.facebook.com/icable.ent有線健康 Facebook ► https://www.facebook.com/icable.health

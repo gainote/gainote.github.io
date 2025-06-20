@@ -1,0 +1,5 @@
+
+      您使用的瀏覽器版本較舊，已不再受支援。建議您更新瀏覽器版本，以獲得最佳使用體驗。
+    
+      請在瀏覽器上啟用JavaScript來瀏覽頁面中的所有內容。
+    可能係去年最好睇嘅內地古裝劇《九重紫》好快登陸HOYTV，呢日劇中兩位人氣王：李昀銳、孟子義接受我哋主持Vanessa王凌燕專訪，李昀銳係籃球員出身，佢承認因為係運動員嘅關係，無論力度或反應，對拍動作戲都好有幫助；孟子義就話拍完《九重紫》後，出街多咗人叫佢角色名「竇昭」，亦都多咗人搵佢簽名，感覺好多人都睇緊呢部劇，佢梗係覺得好開心啦！#九重紫 #HOYTV #李昀銳 #孟子義 #Vanessa王凌燕 #專訪 #籃球員 #幫助 #簽名#HOYTV #HOY娛樂新聞-------------------------------------------------Like & Follow 👍👍👍HOY TV Facebook ► https://www.facebook.com/hkhoyHOY TV Instagram ► https://www.instagram.com/hk.hoy/有線新聞 Facebook ► https://www.facebook.com/icable.news有線新聞 Instagram ► https://www.instagram.com/icable.news有線生活 Facebook ► https://www.facebook.com/icable.life有線生活 Instagram ► https://www.instagram.com/icable.life有線娛樂 Facebook ► https://www.facebook.com/icable.ent有線健康 Facebook ► https://www.facebook.com/icable.health

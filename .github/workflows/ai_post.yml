@@ -1,0 +1,45 @@
+name: AI Post Generation
+
+on:
+  schedule:
+    # 每 5 分鐘觸發一次（理論上）
+    - cron: '*/15 * * * *'
+  workflow_dispatch:  # 可手動觸發
+
+jobs:
+  ai_post:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. 取用專案原始碼
+      - name: Check out code
+        uses: actions/checkout@v3
+
+      # 2. 設定 Python 環境
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      # 安裝 g4f
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      # 3. 執行 Python 腳本
+      - name: Run script
+        run: |
+          python save_md.py
+
+      # 4. 設定 git 提交者資訊
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      # 5. 提交並推送更動
+      - name: Commit changes
+        run: |
+          git add .
+          git commit -m "chore: add new md file" || echo "No changes to commit"
+          git push origin HEAD:main
