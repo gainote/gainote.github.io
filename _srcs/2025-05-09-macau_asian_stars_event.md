@@ -1,0 +1,5 @@
+
+      您使用的瀏覽器版本較舊，已不再受支援。建議您更新瀏覽器版本，以獲得最佳使用體驗。
+    
+      請在瀏覽器上啟用JavaScript來瀏覽頁面中的所有內容。
+    劉嘉玲、陳慧琳、林嘉欣、胡杏兒、蔡卓妍、何超儀同老公陳子聰、李冰冰、劉濤、于適、韓國天王Rain等紅星共冶一爐，真係星光熠熠，不過就要去澳門先睇到，一身紅衣嘅張柏芝係兩個仔仔去捧霆鋒演唱會後首度露面，梗係成為焦點啦，不過佢就封口唔做訪問，反而嘉玲姐同舒淇都大方分享近況，甚至啱啱受完傷嘅Jeffrey魏浚笙都有分享死裡逃生嘅經歷，唔少得杏兒代老公拆彈啦，真係夠哂精彩啊﹗#Rain #劉嘉玲 #陳慧琳 #林嘉欣 #胡杏兒 #蔡卓妍 #何超儀陳子聰 #李冰冰 #劉濤 #于適 #紅星 #共冶一爐 #星光熠熠 #澳門 #張柏芝 #霆鋒演唱會 #焦點 #封口 #舒淇 #Jeffrey魏浚笙 #死裡逃生 #拆彈 #娛樂新聞 #HOY#HOYTV #HOY娛樂新聞-------------------------------------------------Like & Follow 👍👍👍HOY TV Facebook ► https://www.facebook.com/hkhoyHOY TV Instagram ► https://www.instagram.com/hk.hoy/有線新聞 Facebook ► https://www.facebook.com/icable.news有線新聞 Instagram ► https://www.instagram.com/icable.news有線生活 Facebook ► https://www.facebook.com/icable.life有線生活 Instagram ► https://www.instagram.com/icable.life有線娛樂 Facebook ► https://www.facebook.com/icable.ent有線健康 Facebook ► https://www.facebook.com/icable.health

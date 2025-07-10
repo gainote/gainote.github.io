@@ -1,0 +1,1 @@
+人工智能公司、ChatGPT開發商OpenAI周三透露，其付費商業客戶已達300萬名，較2月份公布的200萬增長高達50%。OpenAI表示，300萬名訂閱用戶包括ChatGPT Enterprise、ChatGPT Team和ChatGPT Edu的用戶。該平台截至2月份擁有4億每周活躍用戶。(to/m)相關內容微軟將簽訂美國首份工會合同 涉及遊戲子公司300名員工AASTOCKS新聞

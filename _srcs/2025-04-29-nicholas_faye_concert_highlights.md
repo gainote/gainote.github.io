@@ -1,0 +1,5 @@
+
+      您使用的瀏覽器版本較舊，已不再受支援。建議您更新瀏覽器版本，以獲得最佳使用體驗。
+    
+      請在瀏覽器上啟用JavaScript來瀏覽頁面中的所有內容。
+    咁動感嘅王菲大家見過未先？究竟邊個有咁大魅力令佢手舞足蹈跳哂舞？當然係佢嘅最愛謝霆鋒啦﹗當大家都奇怪霆鋒首個啟德騷竟然唔見阿菲，轉眼佢就大方現身第二場個唱，當聽到兩人嘅訂情歌《玉蝴蝶》時，阿菲雙手高舉扮蝴蝶翩翩起舞，真係甜到漏啊﹗呢晚繼續有大批圈中人捧場，包括張家輝、陳偉霆 、周慧敏、李克勤盧淑儀夫婦等，梗係唔少得佢好友陳奕迅啦，Eason更同老婆徐濠縈及寶貝女同場，真係好罕有啊﹗#王菲 #魅力 #手舞足蹈 #跳舞 #最愛謝霆鋒 #啟德騷 #大方現身 #第二場 #訂情歌 #玉蝴蝶 #翩翩起舞 #甜到漏 #張家輝 #陳偉霆 #周慧敏 #李克勤盧淑儀 #陳奕迅 #老婆徐濠縈 #寶貝女 #罕有 #娛樂新聞 #HOY#HOYTV #HOY娛樂新聞-------------------------------------------------Like & Follow 👍👍👍HOY TV Facebook ► https://www.facebook.com/hkhoyHOY TV Instagram ► https://www.instagram.com/hk.hoy/有線新聞 Facebook ► https://www.facebook.com/icable.news有線新聞 Instagram ► https://www.instagram.com/icable.news有線生活 Facebook ► https://www.facebook.com/icable.life有線生活 Instagram ► https://www.instagram.com/icable.life有線娛樂 Facebook ► https://www.facebook.com/icable.ent有線健康 Facebook ► https://www.facebook.com/icable.health

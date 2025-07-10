@@ -1,0 +1,1 @@
+War and conflict can cause flight cancellation, delays, and changed travel routes. Source: Getty / gahsoon訂閱即表示你同意SBS的服務使用條款及私隱保障政策，包括接收來自SBS的電子郵件通訊。

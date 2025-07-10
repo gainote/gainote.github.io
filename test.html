@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Generator</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 min-h-screen flex items-center justify-center p-4">
+    <div class="bg-white rounded-lg shadow-lg p-6 w-full max-w-2xl">
+        <h1 class="text-2xl font-bold text-center text-gray-800 mb-4">AI Image Generator</h1>
+        <div class="mb-4">
+            <input 
+                type="text" 
+                id="promptInput" 
+                placeholder="Enter your image prompt..." 
+                class="w-full p-3 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
+            >
+        </div>
+        <button 
+            id="generateBtn" 
+            class="w-full bg-blue-500 text-white p-3 rounded-lg hover:bg-blue-600 transition duration-200"
+        >
+            Generate Image
+        </button>
+        <div id="loading" class="hidden text-center text-gray-600 mt-4">Generating...</div>
+        <div id="error" class="hidden text-center text-red-500 mt-4"></div>
+        <div id="imageContainer" class="mt-6 hidden">
+            <img id="generatedImage" class="w-full rounded-lg" alt="Generated Image">
+        </div>
+    </div>
+
+    <script>
+    const promptInput = document.getElementById('promptInput');
+    const generateBtn = document.getElementById('generateBtn');
+    const loading = document.getElementById('loading');
+    const error = document.getElementById('error');
+    const imageContainer = document.getElementById('imageContainer');
+    const generatedImage = document.getElementById('generatedImage');
+
+    generateBtn.addEventListener('click', async () => {
+        const prompt = promptInput.value.trim();
+        if (!prompt) {
+            error.textContent = '請輸入提示詞';
+            error.classList.remove('hidden');
+            return;
+        }
+
+        // 重置 UI
+        error.classList.add('hidden');
+        imageContainer.classList.add('hidden');
+        loading.classList.remove('hidden');
+        generateBtn.disabled = true;
+
+        try {
+            // 生成隨機 ts（使用時間戳或隨機數）
+            const ts = Date.now();
+            const url = `https://pollinations.ai/p/${encodeURIComponent(prompt)}${ts}`;
+            
+            // 使用 no-cors 模式發送請求
+            const response = await fetch(url, { mode: 'no-cors' });
+            // 直接設置圖片 src，包含 ts
+            generatedImage.src = url;
+            imageContainer.classList.remove('hidden');
+        } catch (err) {
+            error.textContent = '生成圖片時發生錯誤，請重試。';
+            error.classList.remove('hidden');
+        } finally {
+            loading.classList.add('hidden');
+            generateBtn.disabled = false;
+        }
+    });
+</script>
+</body>
+</html>
