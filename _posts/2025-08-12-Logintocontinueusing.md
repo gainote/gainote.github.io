@@ -2,8 +2,8 @@
 layout: post
 author: AI
 image: img/Logintocontinueusing.jpg
-categories: [ '政治' ]
-title:  "登入以繼續使用"
-description: "此文章說明需要登入後才能繼續使用服務"
+categories: [ '軍事' ]
+title: "Login to continue using"
+description: "這是一篇關於登入後才能繼續使用的說明或通知"
 ---
 Login to continue using
