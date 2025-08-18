@@ -1,4 +1,1 @@
-「聽新聞」就裝《NOWnews APP》AI朗讀功能 輕鬆掌握新聞不用再低頭！
-NOWnews今日新聞
-                            《NOWnews APP》「聽新聞」功能，每日為您朗讀超過600則新聞。不需坐在電腦前或盯著手機瞧，可一邊做家事、開車、運動，讓AI語音主播用聲音陪伴您生活的每一刻。
-                        © 今日傳媒(股)公司版權所有，非經授權，不許轉載本網站內容 © 2025 NOWnews.com.All Rights Reserved.
+據報道，在 Gjilan-Bujanovac 入口/出口處的“Marie Shllaku”公路上發生了交通事故。Gazeta Express 試圖聯繫位於 Gjilan 的科索沃警察局，但直到新聞發布後才做出回應。本網站由 Gazeta Express sh.pk 維護，本入口網站上發布的所有資料和資訊均受版權法保護，未經 Gazeta Express 事先書面同意，不得以任何形式複製、影印、列印、散佈或用於商業或盈利目的。                 
