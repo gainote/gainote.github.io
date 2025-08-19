@@ -1,1 +1,1 @@
-筱君 台灣 PLUS-公民挑戰百年大黨失敗 公民真的不會選舉（ 徐小花 ）0819Contact us: taiwandaily228@gmail.com
+發燒後衛索菲·坎漢姆（Sophie Kangham）將在膝蓋受傷權向球隊，團隊和團隊的膝蓋受傷權後失去2025賽季的其餘時間。 宣布 週三。發燒簽署了為期七天的艱辛協議，以守衛什葉派，並釋放了後衛基拉·蘭伯特（Kira Lambert）。蘭伯特（Lambert）在七天的困難簽訂了七天的困難合同中，在周日在康涅狄格州贏得的最後一刻發起了WNBA。 坎漢姆（Kangham）對發燒團隊又有另一個嚴重打擊，自上個月以來，由於腰部受傷，一直在失去加泰羅尼亞·克拉克（Catalin Clark）。29歲 – 太陽警衛的Kaningham在被Harley擊中後握著膝蓋痛苦。Save my name, email, and website in this browser for the next time I comment.
