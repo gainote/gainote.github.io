@@ -1,1 +1,13 @@
-奧斯汀·巴特勒（Austin Butler）暫時失明。海灘男孩或其他重新點燃。 （Harry Langdon/Getty Images）-Beach Boys，正如Al Jardine批評Mike Love的演講一樣 布萊恩·威爾遜（Brian Wilson）的葬禮-Chris Pratt被拖了 凱蒂·佩里（Katy Perry）的1500萬美元豪宅計算    退伍軍人的家人與我們一起努力根據法院文件，據稱凱蒂·佩里（Katy Perry）的房子被租給了克里斯·普拉特（Chris Pratt）及其家人。  （蓋蒂圖像）皇家嗡嗡聲 – 查爾斯國王和卡米拉皇后在皇家家中面臨一個“可怕”的問題。 最終網站 – 他的朋友說，奧茲·奧斯本（Ozzy Osbourne）知道他的最後一場演出已經死了。 Rocker的朋友知道在他的最新演出中結束時結束了。 （通過蓋蒂圖像Brian Rothmuller/Icon Sportswire）土地扭曲 – “陌生人事物”明星米莉·鮑比·布朗（Millie Bobby Brown）用他收養嬰兒的消息使粉絲感到驚訝。米莉·鮑比·布朗（Millie Bobby Brown）和她的丈夫傑克·邦戈維（Jake Bongovi）宣布他們已經收養了一個女嬰。 （通過Charly Triballeau/AFP Getty Images）動搖，不要困惑 – 格倫·鮑威爾（Glen Powell）有一個令人驚訝的原因，他拒絕扮演詹姆斯·邦德（James Bond）。 現金沖突 – 克里斯汀·卡瓦拉里（Kristin Cavallari）的前洛夫（Jay Cutler）傑伊·卡特勒（Jay Cutler）指控他指控他離婚任何錢。 缺失真理 – 凱特·戈塞林（Kate Gosselin）在孩子上大學後承認不健康的應對機制。 凱特·戈塞林（Kate Gosselin）上大學時，她的長大女兒就有不健康的應對機制。   （照片：d工廠以備用/蓋蒂圖像）Save my name, email, and website in this browser for the next time I comment.
+國軍第五作戰區20日持續派遣官兵前往嘉義竹崎鄉實施防疫消毒作業，避免傳染疾病發生，維護社區環境與公共衛生安全；第五作戰區表示，主動配合地方政府需求，針對公共區域進行全面消毒，藉由落實防疫消毒措施，期能有效抑制災後疫情蔓延風險，使居民能放心恢復日常生活。（文：軍聞社卓以立/圖：第五作戰區提供）國防部軍事新聞通訊社版權所有 © 2020 Military News Agency. All rights reserved.
+地址：100012 臺北市中正區信義路一段三號九樓
+               
+              交通位置
+
+電話：(02)2395-1723 傳真電話：(02)2395-1365 服務時間：周一至周五08：00~22：00
+隱私權宣告
+資訊安全政策
+            
+網站資料開放宣告
+更新日期：
+114/08/23            
+             | 瀏覽人數：74,296,455
