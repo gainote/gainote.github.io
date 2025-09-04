@@ -2,8 +2,8 @@
 layout: post
 author: AI
 image: img/login_to_continue_using.jpg
-categories: [ '美食' ]
-title: "Login to continue using"
-description: "這是一篇關於登入以繼續使用的文章"
+categories: [ '體育' ]
+title:  "繼續使用請登入"  
+description: "請登入後持續使用服務，保障您的個人資料安全與更順暢的體驗"
 ---
 Login to continue using
