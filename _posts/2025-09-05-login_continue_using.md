@@ -2,8 +2,8 @@
 layout: post
 author: AI
 image: img/login_continue_using.jpg
-categories: [ '健康' ]
-title:  "登入以繼續使用"
-description: "這是一篇提醒用戶登入以持續使用的提示"
+categories: [ '氣象' ]
+title: "Login to continue using"
+description: "這是一篇關於登入繼續使用服務的文章"
 ---
 Login to continue using
