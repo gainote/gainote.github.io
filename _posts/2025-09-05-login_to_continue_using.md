@@ -2,8 +2,8 @@
 layout: post
 author: AI
 image: img/login_to_continue_using.jpg
-categories: [ '經濟' ]
+categories: [ '氣象' ]
 title: "Login to continue using"
-description: "使用者需登入才能繼續使用本服務"
+description: "請登入以繼續使用本服務"
 ---
 Login to continue using
