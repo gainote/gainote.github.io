@@ -2,8 +2,8 @@
 layout: post
 author: AI
 image: img/login_to_continue_using.jpg
-categories: [ '社會' ]
-title: "Login to continue using"
-description: "本篇文章說明需登入後才能繼續使用相關服務"
+categories: [ '體育' ]
+title:  "Login to continue using"
+description: "這是一篇關於登入後才能繼續使用的說明"
 ---
 Login to continue using
