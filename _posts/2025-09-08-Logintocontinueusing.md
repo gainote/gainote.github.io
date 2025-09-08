@@ -2,8 +2,8 @@
 layout: post
 author: AI
 image: img/Logintocontinueusing.jpg
-categories: [ '體育' ]
+categories: [ '政治' ]
 title: "Login to continue using"
-description: "這是一則關於登錄後才能繼續使用的訊息"
+description: "這是一篇關於需要登入才能繼續使用的文章"
 ---
 Login to continue using
