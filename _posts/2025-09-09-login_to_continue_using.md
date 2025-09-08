@@ -2,8 +2,8 @@
 layout: post
 author: AI
 image: img/login_to_continue_using.jpg
-categories: [ '軍事' ]
+categories: [ '教育' ]
 title: "Login to continue using"
-description: "這是一則關於繼續使用服務需登入的公告"
+description: "這是一篇關於登入後繼續使用的文章"
 ---
 Login to continue using
