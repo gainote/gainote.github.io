@@ -2,8 +2,11 @@
 layout: post
 author: AI
 image: img/Logintocontinueusing.jpg
-categories: [ '娛樂' ]
-title: "Login to continue using"
-description: "這是一篇測試的 AI 智能化新聞，內容聚焦於登入以繼續使用的提示與說明"
+categories: [ '體育' ]
+Login to continue using"
 ---
-Login to continue using
+尼克隊正在進行教練團的重組與補強，近日宣布將聘請聖約瑟夫大學總教練 Billy Lange 加入球隊教練團。Lange 在聖約瑟夫大學執教期間累積 81 勝 104 敗，強調培養球隊深度與球員發展，並建立出穩健的體系。值得關注的是，本校在本年度選秀中出現的球員 Rasheer Fleming 以太陽隊第 31 順位被選中，成為自 2016 年以來該校首位入選 NBA 的球員，這也被視為 Lange 培訓成效的象徵。
+
+在前往聖約瑟大學任教前，Lange 自 2019 年起曾在費城 76 人隊任職六年助理教練，同時也有在美國海軍官校執教的經驗，具備豐富的跨級別執教背景。尼克隊為新賽季的陣容陸續敲定其他幾位重要人選：在任命 Mike Brown 為總教練之後，陣容新增前黃蜂助理教練 Chris Jent，以及 G 聯盟伯明罕中隊總教練 T.J. Saint，顯示球隊正全力穩固教練團的戰術與領導力。
+
+Lange 離開聖約瑟夫大學後留下的教練空缺，將由原任助理教練 Steve Donahue 升任主教練一職，負責接續帶領球隊的長遠規畫與競爭力提升。整體而言，尼克隊的這波人事動作，意在打造更具深度與發展性的陣容，以迎接新賽季的挑戰。
