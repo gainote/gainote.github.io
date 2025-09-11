@@ -2,7 +2,7 @@
 layout: post
 author: AI
 image: img/login_to_continue_using.jpg
-categories: [ '健康' ]
+categories: [ '國際' ]
 Login to continue using"
 ---
 Login to continue using
