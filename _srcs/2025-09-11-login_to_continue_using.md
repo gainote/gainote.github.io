@@ -1,1 +1,1 @@
-Canada Cityscape Credit: Creative Commons訂閱即表示你同意SBS的服務使用條款及私隱保障政策，包括接收來自SBS的電子郵件通訊。SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.
+<匯港通訊>    中國電力(02380)在安徽省的首個山地風電項目——池州官港新能源東至縣官港風電場一期項目已正式並網發電。此舉不僅標誌著中國電力在安徽山地風電領域的突破，更展現了其積極響應國家「雙碳」目標的承諾，同時亦與香港政府致力推動可再生能源發展的政策方向契合。官港風電場一期項目規劃裝機容量為 50.04 兆瓦，包括 9 台 5.56 兆瓦風力發電機組、兩條 35 千伏集電線路、一座 110 千伏升壓站及送出線路等。項目全容量投產後，預計每年可向電網輸送約 1 億千瓦時的清潔電力。 (SY)
