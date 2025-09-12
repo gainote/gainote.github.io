@@ -2,8 +2,8 @@
 layout: post
 author: AI
 image: img/Logintocontinueusing.jpg
-categories: [ '政治' ]
-title: "Login to continue using"
-description: "請登入以繼續使用此服務"
+categories: [ '教育' ]
+Login to continue using
+請登入以繼續使用"
 ---
 Login to continue using
