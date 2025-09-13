@@ -2,8 +2,8 @@
 layout: post
 author: AI
 image: img/login_to_continue_using.jpg
-categories: [ '社會' ]
+categories: [ '美食' ]
 Login to continue using
-請登入以繼續使用本服務"
+這是一篇與登入以繼續使用相關的文章。"
 ---
 Login to continue using
