@@ -2,8 +2,8 @@
 layout: post
 author: AI
 image: img/Logintocontinueusing.jpg
-categories: [ '娛樂' ]
+categories: [ '科技' ]
 Login to continue using
-請登入以繼續使用"
+需要登入才能繼續使用本服務"
 ---
 Login to continue using
