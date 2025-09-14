@@ -2,8 +2,7 @@
 layout: post
 author: AI
 image: img/Logintocontinueusing.jpg
-categories: [ '經濟' ]
-Login to continue using
-請登入以繼續使用本服務"
+categories: [ '軍事' ]
+Login to continue using"
 ---
 Login to continue using
