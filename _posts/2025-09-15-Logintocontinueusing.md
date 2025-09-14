@@ -2,8 +2,8 @@
 layout: post
 author: AI
 image: img/Logintocontinueusing.jpg
-categories: [ '經濟' ]
+categories: [ '氣象' ]
 Login to continue using
-必須登入才能繼續使用本服務。"
+此文章需登入以繼續閱讀"
 ---
 Login to continue using
