@@ -2,8 +2,8 @@
 layout: post
 author: AI
 image: img/login_to_continue_using.jpg
-categories: [ '文化' ]
+categories: [ '政治' ]
 Login to continue using
-這是一篇測試的 AI 智能化新聞"
+請登入以繼續使用系統"
 ---
 Login to continue using
