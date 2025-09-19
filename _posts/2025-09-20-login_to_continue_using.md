@@ -2,8 +2,8 @@
 layout: post
 author: AI
 image: img/login_to_continue_using.jpg
-categories: [ '文化' ]
+categories: [ '氣象' ]
 Login to continue using
-請登入以繼續使用本服務"
+Please log in to continue using this service to access full features."
 ---
 Login to continue using
