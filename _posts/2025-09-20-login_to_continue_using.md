@@ -2,8 +2,8 @@
 layout: post
 author: AI
 image: img/login_to_continue_using.jpg
-categories: [ '軍事' ]
-title: "Login to continue using"
-description: "請先登入以繼續閱讀本文"
+categories: [ '教育' ]
+title: "請登入以繼續使用"
+description: "需要登入才能繼續使用的提示與說明"
 ---
 Login to continue using
