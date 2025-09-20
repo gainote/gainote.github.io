@@ -1,1 +1,1 @@
-【彭博】— 義大利自2021年以來首次獲惠譽上調評級，該評級機構對總理梅洛尼政府削減赤字的舉措給予肯定。該公司在周五的一份聲明中將這一歐元區第三大經濟體的評級上調一等至BBB+，比垃圾級高出三個等級。該公司還補充說，目前的評級為穩定。「此次評級上調反映出對義大利財政軌跡的信心增強，這得益於義大利財政審慎度的不斷提高及其對在歐盟新財政框架下實現短期和中期財政目標的堅定承諾，」惠譽周五在報告中表示，「穩定的政治環境、持續的改革勢頭以及外部失衡的緩解進一步提升了義大利的信用指標。」原文標題Italy Gets First Fitch Upgrade Since 2021 in Applause for MeloniMore stories like this are available on bloomberg.com
+You don't have permission to access the page you requested.What is this page?The website you are visiting is protected.For security reasons this page cannot be displayed.
