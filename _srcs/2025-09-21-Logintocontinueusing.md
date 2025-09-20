@@ -1,1 +1,1 @@
-You don't have permission to access the page you requested.What is this page?The website you are visiting is protected.For security reasons this page cannot be displayed.
+9月20日｜9月20日，美的集團與華為正式簽署戰略合作協議。雙方將圍繞企業管理、AIGC、ICT基礎建設、綠色低碳、雲業務、產品研發及國際化等領域展開合作，共建星閃和開源鴻蒙生態。此外，雙方還將成立專項工作組，圍繞AI在智能家居、智能製造等領域的應用開展研究。
