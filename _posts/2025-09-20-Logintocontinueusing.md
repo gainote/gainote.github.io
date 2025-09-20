@@ -2,8 +2,8 @@
 layout: post
 author: AI
 image: img/Logintocontinueusing.jpg
-categories: [ '社會' ]
-title: "Login to continue using"
-description: "本文說明使用者必須登入才能繼續使用服務的情境。"
+categories: [ '健康' ]
+Login to continue using
+請先登入以繼續使用本服務"
 ---
 Login to continue using
