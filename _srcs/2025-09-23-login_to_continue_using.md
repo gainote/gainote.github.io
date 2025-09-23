@@ -1,10 +1,1 @@
-This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.
-Cloudflare Ray ID: 98383a465dea6501
-•
-
-      Your IP:
-      Click to reveal
-135.232.177.183
-•
-
-Performance & security by Cloudflare
+1. 风投巨头 Insight Partners 遭勒索软体攻击 数千人个资被窃**************************************2）粤语直播节目：http://livecast1.soundofhope.org:2086/SF969您还可以到App Store/play store下载希望之声手机App “希望调频”，收听直播节目或节目录音。3. 您可以拨打热线电话或发送文字短讯到1-888-275-1628提出您的问题或发表您的看法。希望之声是在美国联邦注册的非营利机构。帮助传播真相，捐款支持希望之声。美国的朋友也可以将您的二手车捐给希望之声，省时省力，还可以抵税。咨询电话：1-855-578-0088
