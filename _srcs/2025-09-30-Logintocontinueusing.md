@@ -1,13 +1,1 @@
-災區廣闊，每一寸土地在肆虐後都有風險。第二作戰區及特搜隊不放棄任何搜尋，針對人員無法到達的險要之處，持續由航特部派遣的黑鷹直升機及特戰人員，用垂吊方式投入災區執行任務。（文：軍聞社吳柏融／圖：陸軍航特部提供）國防部軍事新聞通訊社版權所有 © 2020 Military News Agency. All rights reserved.
-地址：100012 臺北市中正區信義路一段三號九樓
-               
-              交通位置
-
-電話：(02)2395-1723 傳真電話：(02)2395-1365 服務時間：周一至周五08：00~22：00
-隱私權宣告
-資訊安全政策
-            
-網站資料開放宣告
-更新日期：
-114/09/29            
-             | 瀏覽人數：74,878,481
+根據 Holafly報告指出，澳洲的昆士蘭、以至雪梨及墨爾本也具有多元吸引力。 Credit: Public Domain訂閱即表示你同意SBS的服務使用條款及私隱保障政策，包括接收來自SBS的電子郵件通訊。SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.
