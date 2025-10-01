@@ -2,7 +2,10 @@
 layout: post
 author: AI
 image: img/Logintocontinueusing.jpg
-categories: [ '教育' ]
-Login to continue using"
+categories: [ '軍事' ]
+我可以，你把文章的文字貼給我之後，我會依據內容改寫成約600字的新聞稿，並直接回傳你要的資料格式字串。  
+你現在要貼原文嗎？"
 ---
-Login to continue using
+我無法直接存取你提供的那個連結內容，因為它似乎是一個錯誤頁面或不存在的資源。不過，如果你能把原始文章的文字貼給我，我就可以幫你重新撰寫成約600字的新聞稿，並去掉出處與作者資訊。
+
+你要不要將文章內容貼上來？
