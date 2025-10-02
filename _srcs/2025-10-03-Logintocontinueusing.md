@@ -1,1 +1,58 @@
-【大紀元2025年10月02日訊】（大紀元記者王君宜綜合報導）美國聯邦政府因預算僵局自10月1日新財年起陷入停擺，影響已擴及駐日與駐韓美軍基地。雖然戰備運作未受波及，但多場社區慶典與校園返校活動接連取消或延期，令當地民眾與美軍家庭頗感失落。美國海軍陸戰隊太平洋基地設施管理局（Marine Corps Installations Pacific，MCIPAC）週四（10月2日）在官方臉書上發文表示，受政府關門影響，原定於10月4日和5日在沖繩縣的普天間飛行場舉行的「普天間航線航空展」（Futenma Flight Line Fair）將全面取消。據《沖繩時報》報導，該項活動為當地年度盛事，往年常吸引上萬名遊客入場。屆時基地會對外開放，展示多款軍用機，其中包括MV-22「魚鷹」傾斜旋翼機，並提供機艙參觀、美式餐飲攤位與兒童遊樂設施，氛圍熱鬧。主辦單位宣布，活動將縮減為僅限美國國防部（DoD）證件人員入場的室內音樂會，地點移至鄰近的嘉手納基地「海風會館」（Ocean Breeze）舉行。公告同時說明，現役軍人將繼續執勤，但需在國會通過臨時決議或年度支出法案並由總統簽署成為法律後，才能補發薪酬。但不屬於必要崗位的文職雇員需休無薪假。據美軍《星條旗報》（Stars and Stripes）報導，駐日美軍第七艦隊母港橫須賀基地，也取消了原定本週日的「友好日」慶典。該活動去年吸引逾5萬人，創下近十年新高。基地方在聲明中表示，理解社區為籌備付出大量心力，對臨時取消深表歉意。同樣受波及的還有青森縣三澤空軍基地。隸屬美國國防部教育活動署（DoDEA）的羅伯特‧D‧埃德格倫中高中（Robert D. Edgren Middle High School）宣布，與橫田高中的返校橄欖球賽、營火會、遊行與舞會將至少延期兩週。位於韓國京畿道平澤市、為美軍海外最大規模基地的韓福營地（Camp Humphreys），其附屬高中雖然仍將舉行返校前的啦啦隊集會與遊行，但原訂與駐日橫須賀基地主校對戰的橄欖球比賽及隨後的舞會，則已被無限期延期。美國國防部教育活動署亞太地區發言人米蘭達‧弗格森（Miranda Ferguson）證實，所有課外活動與比賽均因政府停擺而延期或取消。在美國政府停擺期間，雖然各類文化與社交活動大受衝擊，但「必要業務」仍持續運作。駐外美軍官兵照常執勤，戰備未受影響。各基地的醫療服務、日託中心及軍需商店等核心設施維持正常，以確保官兵與眷屬的基本生活需求。
+
+獨家的： 數字內容的主持人和創建者Jolie Sharpe與CAA體育媒體簽訂了合同。
+	體育廣播公司出生於倫敦，由亞歷克斯·麥奎爾（Alex McGuire）領導的特工CAA團隊代表，他領導了英國和歐洲的媒體體育媒體機構。
+
+	當《每日郵報》的Instagram頻道採訪在歐洲冠軍決賽之前，夏普首先引起了足球迷的注意，總共收集了超過8000萬次觀看次數。 
+
+	比賽結束後，在另一個內容創作者的視頻中，她在英格蘭以2-1的歐元半決賽擊敗荷蘭之後，接受了簡短的採訪。
+
+	從那以後，她展示了幾項運動，例如Formula 1和美國開放網球錦標賽。她還與阿迪達斯，亞馬遜，埃斯塔·勞德（EstéeLauder），可靠和足球以及包括曼聯，英格蘭紅玫瑰，芝加哥熊隊，簽證現金賽車公牛F1 F1球隊，梅賽德斯和邁克拉倫在內的專業團隊合作。 
+
+	Sharpe還是社交媒體和JGS Live Content Agency的創始人，她在四年前創建了20歲。 
+
+	CAA體育媒體客戶是Kate Scott，Erin Andrews，Gareth Bale，Doris Burke，Katie Feeney，Grant Hill，Grant Hill，Laura Rutledge，Frank Lampard，Daniel Ricciardo，Nico Rosberg，Nico Rosberg，Naomi Schiff，Tony Romo，Tony Romo，Adam Schefter，Adam Schefter，Dwyane Wade，Jj Wade，Jj Watt和Laura Woods。
+
+	麥奎爾（McGuire）於2023年加入CAA，管理英國和歐洲的體育活動，他以前在YMU呆了十年，在那裡他也是體育媒體的負責人。
+	體育廣播公司出生於倫敦，由亞歷克斯·麥奎爾（Alex McGuire）領導的特工CAA團隊代表，他領導了英國和歐洲的媒體體育媒體機構。
+	當《每日郵報》的Instagram頻道採訪在歐洲冠軍決賽之前，夏普首先引起了足球迷的注意，總共收集了超過8000萬次觀看次數。 
+
+	比賽結束後，在另一個內容創作者的視頻中，她在英格蘭以2-1的歐元半決賽擊敗荷蘭之後，接受了簡短的採訪。
+
+	從那以後，她展示了幾項運動，例如Formula 1和美國開放網球錦標賽。她還與阿迪達斯，亞馬遜，埃斯塔·勞德（EstéeLauder），可靠和足球以及包括曼聯，英格蘭紅玫瑰，芝加哥熊隊，簽證現金賽車公牛F1 F1球隊，梅賽德斯和邁克拉倫在內的專業團隊合作。 
+
+	Sharpe還是社交媒體和JGS Live Content Agency的創始人，她在四年前創建了20歲。 
+
+	CAA體育媒體客戶是Kate Scott，Erin Andrews，Gareth Bale，Doris Burke，Katie Feeney，Grant Hill，Grant Hill，Laura Rutledge，Frank Lampard，Daniel Ricciardo，Nico Rosberg，Nico Rosberg，Naomi Schiff，Tony Romo，Tony Romo，Adam Schefter，Adam Schefter，Dwyane Wade，Jj Wade，Jj Watt和Laura Woods。
+
+	麥奎爾（McGuire）於2023年加入CAA，管理英國和歐洲的體育活動，他以前在YMU呆了十年，在那裡他也是體育媒體的負責人。
+	當《每日郵報》的Instagram頻道採訪在歐洲冠軍決賽之前，夏普首先引起了足球迷的注意，總共收集了超過8000萬次觀看次數。 
+	比賽結束後，在另一個內容創作者的視頻中，她在英格蘭以2-1的歐元半決賽擊敗荷蘭之後，接受了簡短的採訪。
+
+	從那以後，她展示了幾項運動，例如Formula 1和美國開放網球錦標賽。她還與阿迪達斯，亞馬遜，埃斯塔·勞德（EstéeLauder），可靠和足球以及包括曼聯，英格蘭紅玫瑰，芝加哥熊隊，簽證現金賽車公牛F1 F1球隊，梅賽德斯和邁克拉倫在內的專業團隊合作。 
+
+	Sharpe還是社交媒體和JGS Live Content Agency的創始人，她在四年前創建了20歲。 
+
+	CAA體育媒體客戶是Kate Scott，Erin Andrews，Gareth Bale，Doris Burke，Katie Feeney，Grant Hill，Grant Hill，Laura Rutledge，Frank Lampard，Daniel Ricciardo，Nico Rosberg，Nico Rosberg，Naomi Schiff，Tony Romo，Tony Romo，Adam Schefter，Adam Schefter，Dwyane Wade，Jj Wade，Jj Watt和Laura Woods。
+
+	麥奎爾（McGuire）於2023年加入CAA，管理英國和歐洲的體育活動，他以前在YMU呆了十年，在那裡他也是體育媒體的負責人。
+	比賽結束後，在另一個內容創作者的視頻中，她在英格蘭以2-1的歐元半決賽擊敗荷蘭之後，接受了簡短的採訪。
+	從那以後，她展示了幾項運動，例如Formula 1和美國開放網球錦標賽。她還與阿迪達斯，亞馬遜，埃斯塔·勞德（EstéeLauder），可靠和足球以及包括曼聯，英格蘭紅玫瑰，芝加哥熊隊，簽證現金賽車公牛F1 F1球隊，梅賽德斯和邁克拉倫在內的專業團隊合作。 
+
+	Sharpe還是社交媒體和JGS Live Content Agency的創始人，她在四年前創建了20歲。 
+
+	CAA體育媒體客戶是Kate Scott，Erin Andrews，Gareth Bale，Doris Burke，Katie Feeney，Grant Hill，Grant Hill，Laura Rutledge，Frank Lampard，Daniel Ricciardo，Nico Rosberg，Nico Rosberg，Naomi Schiff，Tony Romo，Tony Romo，Adam Schefter，Adam Schefter，Dwyane Wade，Jj Wade，Jj Watt和Laura Woods。
+
+	麥奎爾（McGuire）於2023年加入CAA，管理英國和歐洲的體育活動，他以前在YMU呆了十年，在那裡他也是體育媒體的負責人。
+	從那以後，她展示了幾項運動，例如Formula 1和美國開放網球錦標賽。她還與阿迪達斯，亞馬遜，埃斯塔·勞德（EstéeLauder），可靠和足球以及包括曼聯，英格蘭紅玫瑰，芝加哥熊隊，簽證現金賽車公牛F1 F1球隊，梅賽德斯和邁克拉倫在內的專業團隊合作。 
+	Sharpe還是社交媒體和JGS Live Content Agency的創始人，她在四年前創建了20歲。 
+
+	CAA體育媒體客戶是Kate Scott，Erin Andrews，Gareth Bale，Doris Burke，Katie Feeney，Grant Hill，Grant Hill，Laura Rutledge，Frank Lampard，Daniel Ricciardo，Nico Rosberg，Nico Rosberg，Naomi Schiff，Tony Romo，Tony Romo，Adam Schefter，Adam Schefter，Dwyane Wade，Jj Wade，Jj Watt和Laura Woods。
+
+	麥奎爾（McGuire）於2023年加入CAA，管理英國和歐洲的體育活動，他以前在YMU呆了十年，在那裡他也是體育媒體的負責人。
+	Sharpe還是社交媒體和JGS Live Content Agency的創始人，她在四年前創建了20歲。 
+	CAA體育媒體客戶是Kate Scott，Erin Andrews，Gareth Bale，Doris Burke，Katie Feeney，Grant Hill，Grant Hill，Laura Rutledge，Frank Lampard，Daniel Ricciardo，Nico Rosberg，Nico Rosberg，Naomi Schiff，Tony Romo，Tony Romo，Adam Schefter，Adam Schefter，Dwyane Wade，Jj Wade，Jj Watt和Laura Woods。
+
+	麥奎爾（McGuire）於2023年加入CAA，管理英國和歐洲的體育活動，他以前在YMU呆了十年，在那裡他也是體育媒體的負責人。
+	CAA體育媒體客戶是Kate Scott，Erin Andrews，Gareth Bale，Doris Burke，Katie Feeney，Grant Hill，Grant Hill，Laura Rutledge，Frank Lampard，Daniel Ricciardo，Nico Rosberg，Nico Rosberg，Naomi Schiff，Tony Romo，Tony Romo，Adam Schefter，Adam Schefter，Dwyane Wade，Jj Wade，Jj Watt和Laura Woods。
+	麥奎爾（McGuire）於2023年加入CAA，管理英國和歐洲的體育活動，他以前在YMU呆了十年，在那裡他也是體育媒體的負責人。
+	麥奎爾（McGuire）於2023年加入CAA，管理英國和歐洲的體育活動，他以前在YMU呆了十年，在那裡他也是體育媒體的負責人。Save my name, email, and website in this browser for the next time I comment.
