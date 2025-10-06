@@ -1,0 +1,1 @@
+Copyright © 2025 China Times Group All Rights Reserved. Web design by FT.
