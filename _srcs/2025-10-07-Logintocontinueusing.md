@@ -1,1 +1,8 @@
-Copyright © 2025 China Times Group All Rights Reserved. Web design by FT.
+
+2025-10-06樂透彩中獎號碼
+
+                                
+114年 07~08月統一發票中獎號碼
+                             
+2025-10-07空氣品質指標
+                              
