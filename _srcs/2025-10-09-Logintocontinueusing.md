@@ -1,6 +1,1 @@
-
-          To view this video please enable JavaScript, and consider upgrading to a web browser that
-          supports HTML5 video
-【有線新聞】新一年度，泰晤士高等教育世界大學排名香港有六間大學進佔全球200強，包括首次躋身的教育大學。
-香港大學排全球第33位，比去年上升兩位，繼續是香港排名最高學府。中大、科大、城大、理大都在一百名以內，分別位列41、58、75及83。教育大學就排第195位，首次晉身全球200強。香港是亞洲唯一地區6間上榜大學的排名全都進步。整體表現方面，英國牛津大學蟬聯榜首，美國麻省理工全球第二。
-教育局說，本港教育界成績令人鼓舞，肯定政府持續堅定投資教育，未來10年隨國家教育高速發展，香港教育會迎來黃金時期，會繼續深化香港國際教育樞紐角色。
+SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.訂閱即表示你同意SBS的服務使用條款及私隱保障政策，包括接收來自SBS的電子郵件通訊。SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.
