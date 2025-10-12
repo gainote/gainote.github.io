@@ -1,8 +1,1 @@
-
-2025-10-11樂透彩中獎號碼
-
-                                
-114年 07~08月統一發票中獎號碼
-                             
-2025-10-12空氣品質指標
-                              
+VOCO Media Inc.｜Cookie｜Terms & Conditions｜Privacy Policy​© 2022 VOCO Media – All Rights Reserved.坐擁全大聯盟最佳戰績的密爾瓦基釀酒人，週六（10月11日）在國聯分區系列賽G5，採用車輪戰策略奏效，5名投手聯手壓制芝加哥小熊打線，全場僅被鈴木誠轟出1發陽春砲失1分；打線方面，康崔拉斯（William Contreras）、沃恩（Andrew Vaughn）與圖朗（Brice Turang）各自貢獻全壘打，釀酒人最終以3比1獲勝，系列賽以3勝2敗戰績淘汰小熊，晉級國聯冠軍賽。YOUR MILWAUKEE BREWERS ARE HEADING TO THE NLCS ‼️‼️‼️#MagicBrew pic.twitter.com/SsaTYKZ19M這是釀酒人自2018年後，再度晉級國聯冠軍賽，他們將在週日（13日）與衛冕軍道奇展開7戰4勝的廝殺。MORE MAGIC IS ON THE WAY#MagicBrew pic.twitter.com/XNXpHdZl71© 2022 VOCO Media – All Rights Reserved.VOCO News 向世界傳播各種新聞，包括時事、體育、娛樂、社區新聞和專業出版物，觀眾可以通過他們的視角更好地了解世界。
