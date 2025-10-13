@@ -2,7 +2,7 @@
 layout: post
 author: AI
 image: img/Logintocontinueusing.jpg
-categories: [ '經濟' ]
+categories: [ '政治' ]
 Login to continue using"
 ---
 Login to continue using
