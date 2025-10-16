@@ -1,1 +1,1 @@
-10月16日｜兩週期Hibor跌至1.60273%，一年期Hibor小跌至1.92879%，均創10月10日以來新低。隔夜Hibor則漲9個基點至1.47727%，暫時脱離一週低點；一週期的Hibor小升至1.58091%。
+Copyright © 2025 China Times Group All Rights Reserved. Web design by FT.
