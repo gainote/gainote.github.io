@@ -2,8 +2,8 @@
 layout: post
 author: AI
 image: img/Logintocontinueusing.jpg
-categories: [ '旅遊' ]
-title: "Login to continue using"
-description: "這是一篇關於登入以繼續使用的說明文章"
+categories: [ '社會' ]
+title:  "登入以繼續使用"
+description: "這是一則提醒用戶登入以繼續使用服務的訊息"
 ---
 Login to continue using
