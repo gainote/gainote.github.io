@@ -1,0 +1,1 @@
+蘇丹軍隊在經歷了長達 18 個月的圍困之後，已從達爾富爾重鎮法希爾撤出，據報導，有大量平民死亡。Save my name, email, and website in this browser for the next time I comment.
