@@ -1,2 +1,4 @@
-它由社區賦權部和阿聯酋基金會通過“志願者”平台組織。阿聯酋航空…
-來源連結Save my name, email, and website in this browser for the next time I comment.
+「聽新聞」就裝《NOWnews APP》AI朗讀功能 輕鬆掌握新聞不用再低頭！
+NOWnews今日新聞
+                            《NOWnews APP》「聽新聞」功能，每日為您朗讀超過600則新聞。不需坐在電腦前或盯著手機瞧，可一邊做家事、開車、運動，讓AI語音主播用聲音陪伴您生活的每一刻。
+                        本周咖啡優惠！7-11咖啡買11送11　特大杯25元、雙11美式拿鐵半價© 今日傳媒(股)公司版權所有，非經授權，不許轉載本網站內容 © 2025 NOWNEWS.com.All Rights Reserved.
