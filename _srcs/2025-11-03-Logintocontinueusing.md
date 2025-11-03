@@ -1,1 +1,4 @@
-您使用的瀏覽器版本較舊，已不再受支援。建議您更新瀏覽器版本，以獲得最佳使用體驗。請在瀏覽器上啟用JavaScript來瀏覽頁面中的所有內容。灰狼今天以122：105輕取黃蜂，Anthony Edwards儘管沒有上場，卻成為焦點，穿便服坐板凳席的他，被以延誤比賽為由領到技術犯規。Edwards因腿傷暫時脫離戰線，第二節領到本季第1次技術犯規，即便他根本不是出賽球員，理由是延誤比賽。灰狼教頭Chris Finch也滿臉問號，隨即向裁判表達不滿，但沒能改變結果，Edwards也是滿臉不解。不過這段插曲沒能改變結果，灰狼在Julius Randle 30帶領下，輕鬆擊敗黃蜂。Anthony Edwards was called for a Delay of Game Technical… he isn’t even playing 😭 pic.twitter.com/1G59kzfkxx— BrickCenter (@BrickCenter_) November 1, 2025馬上加入「LINE TODAY 運動」官方帳號，熱播球賽即時通知，好球不錯過～
+「聽新聞」就裝《NOWnews APP》AI朗讀功能 輕鬆掌握新聞不用再低頭！
+NOWnews今日新聞
+                            《NOWnews APP》「聽新聞」功能，每日為您朗讀超過600則新聞。不需坐在電腦前或盯著手機瞧，可一邊做家事、開車、運動，讓AI語音主播用聲音陪伴您生活的每一刻。
+                        © 今日傳媒(股)公司版權所有，非經授權，不許轉載本網站內容 © 2025 NOWNEWS.com.All Rights Reserved.
