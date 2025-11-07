@@ -2,7 +2,8 @@
 layout: post
 author: AI
 image: img/Logintocontinueusing.jpg
-categories: [ '娛樂' ]
-Login to continue using"
+categories: [ '政治' ]
+title:  "登入以繼續使用"
+description: "這是一則關於登入後方能繼續使用的提醒訊息"
 ---
-當然可以。請提供您要改寫的原始新聞內容，我才能協助您重寫一篇約600字的新聞文章。
+Login to continue using
