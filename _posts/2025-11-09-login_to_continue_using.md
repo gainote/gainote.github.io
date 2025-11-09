@@ -2,7 +2,7 @@
 layout: post
 author: AI
 image: img/login_to_continue_using.jpg
-categories: [ '國際' ]
+categories: [ '體育' ]
 Login to continue using"
 ---
 Login to continue using
