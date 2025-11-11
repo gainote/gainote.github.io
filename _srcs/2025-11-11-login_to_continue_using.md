@@ -1,1 +1,5 @@
-            年度男運動員、女運動員和最佳團隊將在天空體育現場直播公佈；體育記者協會英國體育獎的歷史可以追溯到75年前；觀看天空體育新聞，包括明星採訪
+為達最佳瀏覽效果，建議使用 Chrome、Firefox 或 Microsoft Edge 的瀏覽器。俄羅斯總統普廷近日出席公開活動時，被鏡頭捕捉到右手手背異常腫脹、血管突起畫面。（取自x）俄羅斯總統普廷近日出席公開活動時，被鏡頭捕捉到右手手背異常腫脹、靜脈突起的畫面。除此之外，普廷在活動過程中表情有異，加上他站立時不自然握拳，看起來不太舒服的畫面，再度引發外界對他健康猜測的懷疑。《紐約郵報》報導 ，73歲的普廷近日出席一場在籃球場舉行的公開活動，在過程中，他被發現疑似身體不適，雙手緊握拳頭，其中右手異常腫脹，甚至可以看到靜脈異常突起。這也引發外界新的一輪猜測。「普廷的手有問題」，烏克蘭內政部前顧問格拉先科（Anton Gerashchenko）對媒體表示，他指出，普廷的血液一直流到肘部，且靜脈一直在膨脹。報導指出，這不是第一次有人關注普廷右手不自然狀況，普廷有一次在軍事訪問時，被拍到手上出現黑斑，更有其他照片顯示他手上有多處靜脈注射的痕跡；此外，普廷有一次發言時，被發現手不停地抽搐，讓他被懷疑罹患帕金森氏症。普廷在今年出席中國93閱兵典禮，與中國領導人習近平談到器官移植一事被外媒曝光後，普廷與習近平的健康狀況一直受到外界關注。A new video surfaced of putin and there’s something really wrong with his hands. Russians online are starting to worry their ruler isn’t okay.Nevertheless, we hope he never gets well. pic.twitter.com/NUmqwFMBnW— Saint Javelin （@saintjavelin） November 10, 2025 A new video surfaced of putin and there’s something really wrong with his hands. Russians online are starting to worry their ruler isn’t okay.Nevertheless, we hope he never gets well. pic.twitter.com/NUmqwFMBnW
+    不用抽 不用搶 現在用APP看新聞 保證天天中獎　
+    點我下載APP　
+    按我看活動辦法
+自由時報版權所有不得轉載© 2025 The Liberty Times. All Rights Reserved.
